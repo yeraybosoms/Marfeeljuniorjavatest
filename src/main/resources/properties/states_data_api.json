@@ -1,0 +1,14 @@
+[
+	{
+		"name": "Washington",
+		"timezone": "UTC-8",
+		"governor": "Jay Inslee",
+		"abbreviation": "WA"
+	},
+	{
+		"name": "New York",
+		"timezone": "UTC-5",
+		"governor": "Andrew Cuomo",
+		"abbreviation": "NY"
+	}
+]

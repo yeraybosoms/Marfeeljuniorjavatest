@@ -1,0 +1,14 @@
+[
+  {
+    "cityName": "New York",
+    "population": 85000000,
+    "mayor": "Bill de Blasio",
+    "settled": 1624
+  },
+  {
+    "cityName": "Washington",
+    "population": 680000,
+    "mayor": "Muriel Bowser",
+    "settled": 1790
+  }
+]

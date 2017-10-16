@@ -1,0 +1,22 @@
+
+Request to test the postal codes GET mapping:
+
+	GET http://localhost:8080/postalcodes/washington
+
+
+Request to test the process cities POST mapping. You can use Postman or any other tool to create a POST request:
+
+	POST http://localhost:8080/cities
+
+	Body:
+
+	[
+		{
+			"city": "New York",
+			"state": "New York"
+		},
+		{
+			"city": "Washington",
+			"state": "Maryland"
+		}
+	]
